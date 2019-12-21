@@ -1,0 +1,129 @@
+[16-Sep-2018 08:14:59 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:14:59 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:14:59 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:39 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:39 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:39 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:53 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:53 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:53 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:54 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:54 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:54 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:32:55 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:34:40 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:34:40 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:34:40 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:34:42 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:34:42 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:34:42 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:39 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:39 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:39 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:40 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:40 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:40 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:41 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:42 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:43 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:44 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:44 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:44 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:44 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:35:44 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:35:44 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:17 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:17 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:17 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:32 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:32 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:32 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:33 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:33 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:33 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:33 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:33 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:33 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:35 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:37 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:39 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/user/server/conn.php on line 8
+[16-Sep-2018 08:40:39 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/user/server/login.php on line 9
+[16-Sep-2018 08:40:39 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/user/server/login.php on line 9

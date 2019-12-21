@@ -1,0 +1,248 @@
+[16-Sep-2018 02:02:01 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/admin2/server/conn.php on line 7
+[16-Sep-2018 02:02:01 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin2/server/login.php on line 14
+[16-Sep-2018 02:02:01 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin2/server/login.php on line 15
+[16-Sep-2018 02:02:01 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/admin2/server/login.php on line 17
+[16-Sep-2018 02:02:01 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/admin2/server/login.php on line 17
+[16-Sep-2018 02:02:06 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/admin2/server/conn.php on line 7
+[16-Sep-2018 02:02:06 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin2/server/login.php on line 14
+[16-Sep-2018 02:02:06 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin2/server/login.php on line 15
+[16-Sep-2018 02:02:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/admin2/server/login.php on line 17
+[16-Sep-2018 02:02:06 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/admin2/server/login.php on line 17
+[16-Sep-2018 02:34:57 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/admin/server/conn.php on line 7
+[16-Sep-2018 02:34:57 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 14
+[16-Sep-2018 02:34:57 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 15
+[16-Sep-2018 02:34:57 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 02:34:57 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 02:35:05 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/admin/server/conn.php on line 7
+[16-Sep-2018 02:35:05 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 14
+[16-Sep-2018 02:35:05 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 15
+[16-Sep-2018 02:35:05 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 02:35:05 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 02:35:24 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/admin/server/conn.php on line 7
+[16-Sep-2018 02:35:24 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 14
+[16-Sep-2018 02:35:24 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 15
+[16-Sep-2018 02:35:24 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 02:35:24 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 02:35:52 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/credwetd/public_html/admin/server/conn.php on line 7
+[16-Sep-2018 02:35:52 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 14
+[16-Sep-2018 02:35:52 America/New_York] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 15
+[16-Sep-2018 02:35:52 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 02:35:52 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/credwetd/public_html/admin/server/login.php on line 17
+[16-Sep-2018 05:54:21 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/admin/server/createAccount.php on line 20
+[16-Sep-2018 05:54:31 America/New_York] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'SMTP Error: data not accepted.' in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php:1219
+Stack trace:
+#0 /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php(1023): PHPMailer->smtpSend('Date: Sun, 16 S...', '--b1_7608e8bcd3...')
+#1 /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php(930): PHPMailer->postSend()
+#2 /home/credwetd/public_html/admin/server/createAccount.php(74): PHPMailer->send()
+#3 {main}
+  thrown in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php on line 1219
+[16-Sep-2018 06:00:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/admin/server/createAccount.php on line 20
+[16-Sep-2018 06:18:29 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/admin/server/createAccount.php on line 20
+[16-Sep-2018 06:19:29 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/admin/server/createAccount.php on line 20
+[16-Sep-2018 06:21:59 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/admin/server/createAccount.php on line 20
+[17-Sep-2018 08:35:36 America/New_York] PHP Notice:  Undefined index: user in /home/credwetd/public_html/admin/server/updateUser.php on line 3
+[17-Sep-2018 08:35:36 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/updateUser.php on line 4
+[17-Sep-2018 08:35:49 America/New_York] PHP Notice:  Undefined index: user in /home/credwetd/public_html/admin/server/updateUser.php on line 3
+[17-Sep-2018 08:35:49 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/updateUser.php on line 4
+[17-Sep-2018 08:35:59 America/New_York] PHP Notice:  Undefined index: user in /home/credwetd/public_html/admin/server/updateUser.php on line 3
+[17-Sep-2018 08:35:59 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/updateUser.php on line 4
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:08:16 America/New_York] PHP Notice:  Undefined offset: 1 in /home/credwetd/public_html/admin/server/createAccount.php on line 33
+[17-Sep-2018 09:08:16 America/New_York] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php:770
+Stack trace:
+#0 /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php(706): PHPMailer->addAnAddress('to', '', '')
+#1 /home/credwetd/public_html/admin/server/createAccount.php(49): PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php on line 770
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:08:27 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:10:04 America/New_York] PHP Notice:  Undefined offset: 1 in /home/credwetd/public_html/admin/server/createAccount.php on line 33
+[17-Sep-2018 09:10:04 America/New_York] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php:770
+Stack trace:
+#0 /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php(706): PHPMailer->addAnAddress('to', '', '')
+#1 /home/credwetd/public_html/admin/server/createAccount.php(49): PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php on line 770
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:16:47 America/New_York] PHP Notice:  Undefined offset: 1 in /home/credwetd/public_html/admin/server/createAccount.php on line 33
+[17-Sep-2018 09:16:47 America/New_York] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php:770
+Stack trace:
+#0 /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php(706): PHPMailer->addAnAddress('to', '', '')
+#1 /home/credwetd/public_html/admin/server/createAccount.php(49): PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php on line 770
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:23:21 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:25:06 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:28:16 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:29:34 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:30:51 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:31:24 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:33:42 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:39:29 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:41:00 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:42:34 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:44:30 America/New_York] PHP Notice:  Undefined offset: 1 in /home/credwetd/public_html/admin/server/createAccount.php on line 33
+[17-Sep-2018 09:44:30 America/New_York] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php:770
+Stack trace:
+#0 /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php(706): PHPMailer->addAnAddress('to', '', '')
+#1 /home/credwetd/public_html/admin/server/createAccount.php(49): PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home/credwetd/public_html/admin/phpmailer/class.phpmailer.php on line 770
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:44:45 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: AccountNumber in /home/credwetd/public_html/admin/server/createAccount.php on line 4
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: name in /home/credwetd/public_html/admin/server/createAccount.php on line 5
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: email in /home/credwetd/public_html/admin/server/createAccount.php on line 6
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: phoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 7
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: address in /home/credwetd/public_html/admin/server/createAccount.php on line 8
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: nokname in /home/credwetd/public_html/admin/server/createAccount.php on line 9
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: nokemail in /home/credwetd/public_html/admin/server/createAccount.php on line 10
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: nokphoneno in /home/credwetd/public_html/admin/server/createAccount.php on line 11
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: balance in /home/credwetd/public_html/admin/server/createAccount.php on line 12
+[17-Sep-2018 09:51:10 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/admin/server/createAccount.php on line 13
+[17-Sep-2018 09:52:47 America/New_York] PHP Notice:  Undefined offset: 1 in /home/credwetd/public_html/admin/server/createAccount.php on line 33
+[17-Sep-2018 14:51:54 America/New_York] PHP Notice:  Undefined offset: 1 in /home/credwetd/public_html/admin/server/createAccount.php on line 35

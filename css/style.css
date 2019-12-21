@@ -1,0 +1,325 @@
+nav, .home nav + * {
+  font-family: Verdana;
+}
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  -webkit-border-radius: 0 6px 6px 6px;
+  -moz-border-radius: 0 6px 6px;
+  border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #ccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+  border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+  float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  -webkit-border-radius: 6px 0 6px 6px;
+  -moz-border-radius: 6px 0 6px 6px;
+  border-radius: 6px 0 6px 6px;
+}
+
+a, a:hover {
+  color: inherit;
+}
+.navbar ul {
+  font-size: .85rem;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link:hover {
+  color: var(--warning);
+}
+.main {
+  box-shadow: 0 3px 20px 0 rgba(0,0,0,0.18);
+}
+#carousel1 .carousel-item {
+  height: 35rem;
+}
+#carousel2 .carousel-item {
+  height: 30rem;
+}
+#carousel1 .carousel-indicators {
+  position: initial;
+}
+#carousel1 .carousel-caption {
+  position: absolute;
+  right: 8rem;
+  left: auto;
+  top: 3rem;
+  width: 30%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: var(--dark);
+  text-align: left;
+}
+#carousel2 .carousel-caption {
+  position: absolute;
+  left: 4rem;
+  right: auto;
+  top: 3rem;
+  width: 55%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: var(--dark);
+  text-align: left;
+}
+#carousel2 ul.benefits>li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+#carousel2 ul.benefits>li svg {
+  width: 2.2rem;
+  height: 2.2rem;
+  margin-right: 2rem;
+  fill: var(--gray);
+}
+#carousel2 ul.benefits>li a {
+  color: var(--dark);
+}
+.carousel-indicators li {
+  cursor: pointer;
+}
+#carousel1 .con {    
+  display: flex;
+  position: absolute;
+  z-index: 10;
+  flex-direction: column;
+  height: 40%;
+  width: 100%;
+  bottom: 0;
+  justify-content: flex-end;
+}
+#carousel1 .con aside {
+  width: 14rem;
+  background: rgba(0,0,0,0.7);
+  align-self: flex-start;
+  z-index: 11;
+}
+#carousel1 a {
+  opacity: 1 !important;
+}
+#carousel1 .con .banner {
+  height: 8rem;
+  display: flex;
+  background: rgba(0,0,0,.70);
+  align-items: center;
+  justify-content: center;
+}
+#carousel1 .con .banner svg {
+  width: 2.5rem;
+  height: 2.5rem;
+  fill: whitesmoke;
+  margin-bottom: 1rem;
+  transition: transform .2s ease-in-out;
+}
+#carousel1 .con .banner a {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#carousel1 .con .banner a:hover {
+  color: whitesmoke;
+}
+#carousel1 .con .banner a:hover svg {
+  transform: scale(1.1);
+}
+#carousel1 .con .banner a:not(:last-child) {
+  border-right: 1px solid rgba(256,256,256,0.3);
+}
+#carousel2 .con {    
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 5%;
+  z-index: 10;
+  flex-direction: column;
+  height: 100%;
+  width: 18%;
+  align-items: center;
+  justify-content: space-around;
+}
+#carousel2 .con ol {
+  height: 70%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  position: initial !important;
+  margin: 0;
+}
+#carousel2 .con ol>li {
+  height: 31%;
+  background-size: 100%;
+  margin: 2% 0;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  transition: filter .3s ease-in-out;
+}
+#carousel2 .con ol>li.active {
+  filter: sepia(40%);
+  box-shadow: -5px 2px 8px 0 rgba(0,0,0,0.45);
+}
+#carousel2 .con ol>li:nth-child(1) {
+  background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://www01.wellsfargomedia.com/assets/images/photography/lifestyle/couple-smiling-water-970x485.jpg);
+}
+#carousel2 .con ol>li:nth-child(2) {
+  background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4d594d65c6a8fc9f2269f12786f2492&auto=format&fit=crop&w=1350&q=80);
+}
+#carousel2 .con ol>li:nth-child(3) {
+  background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://images.unsplash.com/photo-1427751840561-9852520f8ce8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=46f619d8d5f2c4f6f3b59b484da9780f&auto=format&fit=crop&w=750&q=80);
+}
+#carousel2 .con>a {
+  opacity: 1 !important;
+  position: initial !important;
+  transform: rotate(90deg);
+}
+.row.stretch {
+  font-size: 15px;
+}
+.row.row.stretch .img {
+  height: 250px;
+  overflow-y: hidden;
+}
+.row.stretch a {
+  color: inherit !important;
+}
+.row.stretch-2 .col > a {
+  position: relative;
+  height: 200px;
+  overflow-y: hidden;
+}
+.row.stretch-2 .col > a:hover {
+  outline: 2.5px solid #c7c7c8;
+}
+.row.stretch-2 .col > a:hover b {
+  text-decoration: underline;
+}
+.row.stretch-2 .col > a > span {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background: rgba(255, 255, 255, .7);
+}
+.dialpad {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-items: center;
+}
+.dialpad span {
+  border: 1px solid #C5C5C5;
+  border-radius: 3px;
+  background: url(../img/keybg.png) repeat-x bottom left;
+  width: 2.2rem;
+  height: 2.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: .3rem;
+  font-size: .9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.dialpad .clr, .dialpad .del {
+  background: var(--orange);
+  color: white;
+  border-color: transparent;
+}
+footer {
+  background: #44464a;
+  font-size: 14px;
+}
+footer ul.nav-list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+footer ul.nav-list li:not(:last-child) {
+  padding-right: 1rem;
+  margin-right: 1rem;
+  border-right: 1px solid gray;
+}
+footer .social a {
+  margin-right: 1rem;
+}
+footer .bordered {
+  border: 1.5px solid whitesmoke;
+  max-width: 500px;
+}
+.contact {
+  font-size: .9rem;
+}
+.main{
+  background: #F8F8F8;
+  color: #555;
+}
+.login .main {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  background: white;
+}
+.orange-banner > div:nth-child(2) {
+  background: rgba(241, 153, 57, .9);
+}
+.about .creed-today .col p {
+  font-size: .9rem;
+}
+.about .creed-today .img {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image:linear-gradient(rgba(241, 153, 57, .9), rgba(241, 153, 57, .85)), url(https://images.unsplash.com/photo-1527788263495-3518a5c1c42d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6cb2fbef8f666509a96c11b99c9025d0&auto=format&fit=crop&w=783&q=80);
+  background-size: auto 100%;
+
+}
+.about img {
+  max-width: 100%;
+}
+
+

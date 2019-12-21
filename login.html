@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Credit Alliance</title>
+</head>
+
+<body class="login">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
+    <div class="container">
+      <a class="navbar-brand text-warning" href="index.html">Credit Alliance</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="productAndServices" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products &amp; Services</a>
+            <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="productAndServices">
+              <li class="dropdown-submenu">
+                <a class="dropdown-item" tabindex="-1" href="#">Private Banking</a>
+                <ul class="ml-1 dropdown-menu">
+                  <li class="dropdown-item">
+                    <a href="login.html">Offshore Account</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a href="login.html">Other Account</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="dropdown-item">
+                <a href="login.html">Investment Banking</a>
+              </li>
+              <li class="dropdown-item">
+                <a href="login.html">Asset Management</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="corporate" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Corporate</a>
+            <div class="dropdown-menu" aria-labelledby="corporate">
+              <a class="dropdown-item" href="about.html">About Us</a>
+              <a class="dropdown-item" href="responsibility.html">Responsibility</a>
+              <a class="dropdown-item" href="investor-relation.html">Investor Relations</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="corporate" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Customer Service</a>
+            <div class="dropdown-menu" aria-labelledby="corporate">
+              <a class="dropdown-item" href="contact.html">Contact Us</a>
+            </div>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2 py-1" type="search" placeholder="Search" aria-label="Search">
+          <!-- <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button> -->
+        </form>
+      </div>
+    </div>
+  </nav>
+  <div class="container-fluid px-md-5">
+    <div class="d-flex flex-column align-items-center pt-5">
+      <h5 class="my-2"><b>One</b> account. <b>All</b> Services</h5>
+      <small class="my-2">Now with one account you can access the following services:</small>
+      <small><b>Offshore Account, Other Account, Investment Banking, Asset Management</b></small>
+      <div class="main col-md-6 my-5 py-4 px-5">
+        <h4 class="text-center mb-5"><b>Log in</b></h4>
+        <form id="UserLogin" action="app/server/login.php" name="UserLogin" method="POST">
+          <div class="form-group">
+            <input type="text" class="form-control" id="userid" name="userid" placeholder="Enter User ID">
+          </div>
+          <div class="form-group">
+            <input type="password" aria-describedby="passwordHelp" class="form-control" name="password" id="password" placeholder="Password">
+            <small id="emailHelp" class="form-text text-muted">Please do not disclose your password to anyone</small>
+          </div>
+          <button type="submit" class="btn d-block w-100 btn-danger mt-2 mb-4">Submit</button>
+        </form>
+        <div class="border-top pt-3">
+          <p>Your account security is our prime concern. In order to secure your accounts better, please bear the following tips in mind</p>
+          <ol style="font-size: .95rem;" class="pl-3">
+            <li>Do not disclose sensitive account details to anyone (not even our staffs).</li>
+            <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</li>
+            <li> Maiores, quisquam delectus voluptate ipsa voluptas eligendi.</li>
+            <li>Quibusdam odit minima sint aperiam eum hic debitis sunt eveniet quo magnam voluptatum fuga beatae, corrupti asperiores voluptate voluptatibus, rem cupiditate repellat.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="text-white">
+    <div class="container px-3 px-lg-5 py-5" id="pageFooter">
+      <img alt="Together we'll go far" src="https://www01.wellsfargomedia.com/assets/images/global/homepage-footer-stagecoach.png">
+      <ul class="nav-list my-3">
+        <li>
+          <a href="#">About Us</a>
+        </li>
+        <li>
+          <a href="#">Careers</a>
+        </li>
+        <li>
+          <a href="#">PRIVACY, Cookies, Security &amp; Legal</a>
+        </li>
+        <li>
+          <a href="#">Report Fraud</a>
+        </li>
+        <li>
+          <a href="">Diversity &amp; Accessibility</a>
+        </li>
+        <li>
+          <a href="#">Online Access Agreement</a>
+        </li>
+        <li>
+          <a href="#">Ad Choices</a>
+        </li>
+      </ul>
+      <div class="my-5 social">
+        <a href="#">
+          <img src="img/facebook2.png" alt="">&nbsp;</a>
+        <a href="#">
+          <img src="img/linkedin.png" alt="">&nbsp;</a>
+        <a href="#">
+          <img src="img/twitter.png" alt="">&nbsp;</a>
+        <a href="#">
+          <img src="img/youtube.png" alt="">&nbsp;</a>
+        <a href="#">
+          <img src="img/vimeo.png" alt="">&nbsp;</a>
+      </div>
+      <p>We provide links to external websites for convenience. Credit Alliance does not endorse and is not responsible for their content,
+        links, privacy, or securities policies.</p>
+      <p>
+        <strong>Important notice regarding use of cookies:</strong>
+        <p>
+          By continuing to use this site, you agree to our use of cookies as described in our
+          <a href="#">Digital Privacy and Cookies Policy</a>.
+        </p>
+        <p>
+          Brokerage products and services are offered through Credit Alliance Advisors. Credit Alliance Advisors is a trade name used by Credit Alliance Clearing
+          Services, LLC (WFCS) and Credit Alliance Advisors Financial Network, LLC, Members
+          <a href="#">SIPC</a>, separate registered broker-dealers and non-bank affiliates of Credit Alliance &amp; Company.
+          <em>WellsTrade</em>
+          <sup>®</sup> brokerage accounts are offered through WFCS.
+        </p>
+        <div class="bordered p-3 my-3">
+          <strong>Investment and Insurance products:</strong>
+          <ul>
+            <li>
+              <strong>Are Not insured by the FDIC or any other federal government agency</strong>
+            </li>
+            <li>
+              <strong>Are Not deposits of or guaranteed by a Bank</strong>
+            </li>
+            <li>
+              <strong>May Lose Value</strong>
+            </li>
+          </ul>
+        </div>
+        <p>Deposit products offered by Credit Alliance, N.A. Member FDIC.
+        </p>
+        <p class="equalHousingImg">
+          <img alt="icon-equal-housing" src="https://www04.wellsfargomedia.com/assets/images/global/icon-equal-housing.png">
+          <strong>Equal Housing Lender</strong>
+        </p>
+        <p>© 1999 - 2018 Credit Alliance. All rights reserved. NMLSR ID 399801</p>
+    </div>
+  </footer>
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
