@@ -1,76 +1,54 @@
--- phpMyAdmin SQL Dump
--- version 4.0.4
--- http://www.phpmyadmin.net
---
--- Host: localhost
--- Generation Time: Sep 18, 2018 at 12:54 PM
--- Server version: 5.6.12-log
--- PHP Version: 5.4.12
-
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-
---
--- Database: `creditalliance`
---
-CREATE DATABASE IF NOT EXISTS `creditalliance` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `creditalliance`;
-
+-- --------------------------------------------------------
+-- Host:                         localhost
+-- Server version:               5.7.24 - MySQL Community Server (GPL)
+-- Server OS:                    Win64
+-- HeidiSQL Version:             10.2.0.5599
 -- --------------------------------------------------------
 
---
--- Table structure for table `admin`
---
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET NAMES utf8 */;
+/*!50503 SET NAMES utf8mb4 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
+
+-- Dumping database structure for creditalliance
+CREATE DATABASE IF NOT EXISTS `creditalliance` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `creditalliance`;
+
+-- Dumping structure for table creditalliance.admin
 CREATE TABLE IF NOT EXISTS `admin` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(30) NOT NULL,
   `username` varchar(20) NOT NULL,
   `password` varchar(40) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `admin`
---
-
+-- Dumping data for table creditalliance.admin: ~1 rows (approximately)
+/*!40000 ALTER TABLE `admin` DISABLE KEYS */;
 INSERT INTO `admin` (`id`, `name`, `username`, `password`) VALUES
-(1, 'Yayah Mohammed', 'CreditAlliance', 'error404');
+	(1, 'Yayah Mohammed', 'CreditAlliance', 'error404');
+/*!40000 ALTER TABLE `admin` ENABLE KEYS */;
 
--- --------------------------------------------------------
-
---
--- Table structure for table `beneficiary`
---
-
+-- Dumping structure for table creditalliance.beneficiary
 CREATE TABLE IF NOT EXISTS `beneficiary` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `ownerID` varchar(40) NOT NULL,
   `accountno` varchar(40) NOT NULL,
   `name` varchar(40) NOT NULL,
+  `bank` varchar(50) NOT NULL,
+  `address` varchar(50) NOT NULL,
+  `country` varchar(50) NOT NULL,
+  `iban` varchar(50) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `beneficiary`
---
+-- Dumping data for table creditalliance.beneficiary: ~0 rows (approximately)
+/*!40000 ALTER TABLE `beneficiary` DISABLE KEYS */;
+/*!40000 ALTER TABLE `beneficiary` ENABLE KEYS */;
 
-INSERT INTO `beneficiary` (`id`, `ownerID`, `accountno`, `name`) VALUES
-(1, '1537210310266', '1537214085023', 'Esinniobiwa Quareeb'),
-(2, '1537219568347', '565656565', '');
-
--- --------------------------------------------------------
-
---
--- Table structure for table `customers`
---
-
+-- Dumping structure for table creditalliance.customers
 CREATE TABLE IF NOT EXISTS `customers` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `accountno` varchar(15) NOT NULL,
@@ -78,7 +56,7 @@ CREATE TABLE IF NOT EXISTS `customers` (
   `name` varchar(40) NOT NULL,
   `email` varchar(50) NOT NULL,
   `phoneno` varchar(20) NOT NULL,
-  `addrerss` varchar(100) NOT NULL,
+  `address` varchar(100) NOT NULL,
   `kinname` varchar(40) NOT NULL,
   `kinemail` varchar(50) NOT NULL,
   `kinphoneno` varchar(20) NOT NULL,
@@ -86,23 +64,19 @@ CREATE TABLE IF NOT EXISTS `customers` (
   `status` varchar(40) NOT NULL,
   `lastlogin` varchar(50) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `customers`
---
+-- Dumping data for table creditalliance.customers: ~5 rows (approximately)
+/*!40000 ALTER TABLE `customers` DISABLE KEYS */;
+INSERT INTO `customers` (`id`, `accountno`, `balance`, `name`, `email`, `phoneno`, `address`, `kinname`, `kinemail`, `kinphoneno`, `password`, `status`, `lastlogin`) VALUES
+	(1, '1537210310266', '390', 'Abiola Mohammed', 'yayahmohammed@gmail.com', '8162875010', 'Badagry', 'Abiola', 'yayahmohammed@gmail.com', '8162875010', 'd8d070c1a0a0be541fc80fb6b7ab0856', 'Ask for Code', '2018-09-18 12:49:20am'),
+	(2, '1537214085023', '550', 'Esinniobiwa Quareeb', 'graceadeola1@gmail.com', '08162609437', 'No, 61, Alimi Road, Ode Alausa Ilorin, Room 27, Room 27, Room 27, Room 27, Room 27, Room 27, Room 27', 'Esinniobiwa Quareeb', 'abiola@gmail.com', '+2348162609437', '3fd777d7d7f349da6cc06252a9dc6b43', 'Ask for Code', '2018-09-18 12:49:20am'),
+	(3, '1537219568347', '1200', 'Betsy Cooker', 'jgrey797@gmail.com', '5088560866', '                  Hgdbjklvb', 'Frank Turner ', 'hannahjay58c@gmail ', '99099000', '2cdbb15f0c136451fceac02dad481a2a', 'Ask for Code', '2018-09-18 12:49:20am'),
+	(5, '1575563362137', '1000', 'Sanusi Mubaraq', 'mubaraqsanusi908@gmail.com', '08185824523', '4, Challawa Crescent, Barnawa', 'Sanusi Farouq', 'mubaraqsanusi908@gmail.com', '+2348185824523', '1a1dc91c907325c69271ddf0c944bc72', 'Transaction Successful', '2019-12-15 08:03:07am'),
+	(6, '1576267440911', '700', 'Sanusi Matrix', 'mintermntr@gmail.com', '08185824523', '4, Challawa Crescent, Barnawa', 'Sanusi Mubaraq', 'mubaraqsanusi908@gmail.com', '+2348185824523', '1a1dc91c907325c69271ddf0c944bc72', 'Transaction Successful', '2019-12-15 08:42:25am');
+/*!40000 ALTER TABLE `customers` ENABLE KEYS */;
 
-INSERT INTO `customers` (`id`, `accountno`, `balance`, `name`, `email`, `phoneno`, `addrerss`, `kinname`, `kinemail`, `kinphoneno`, `password`, `status`, `lastlogin`) VALUES
-(1, '1537210310266', '390', 'Abiola Mohammed', 'yayahmohammed@gmail.com', '8162875010', 'Badagry', 'Abiola', 'yayahmohammed@gmail.com', '8162875010', 'd8d070c1a0a0be541fc80fb6b7ab0856', 'Transaction Successful', '2018-09-18 12:49:20am'),
-(2, '1537214085023', '550', 'Esinniobiwa Quareeb', 'graceadeola1@gmail.com', '08162609437', 'No, 61, Alimi Road, Ode Alausa Ilorin, Room 27, Room 27, Room 27, Room 27, Room 27, Room 27, Room 27', 'Esinniobiwa Quareeb', 'abiola@gmail.com', '+2348162609437', '3fd777d7d7f349da6cc06252a9dc6b43', 'Transaction Successful', ''),
-(3, '1537219568347', '130000', 'Betsy Cooker', 'jgrey797@gmail.com', '5088560866', '                  Hgdbjklvb', 'Frank Turner ', 'hannahjay58c@gmail ', '99099000', '2cdbb15f0c136451fceac02dad481a2a', 'Ask for Code', '');
-
--- --------------------------------------------------------
-
---
--- Table structure for table `transactions`
---
-
+-- Dumping structure for table creditalliance.transactions
 CREATE TABLE IF NOT EXISTS `transactions` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `transID` varchar(40) NOT NULL,
@@ -110,33 +84,18 @@ CREATE TABLE IF NOT EXISTS `transactions` (
   `toAcc` varchar(40) NOT NULL,
   `amount` varchar(255) NOT NULL,
   `transCode` varchar(30) NOT NULL,
-  `comment` varchar(500) NOT NULL,
+  `type` varchar(500) NOT NULL,
   `status` int(1) NOT NULL,
   `date` varchar(100) NOT NULL,
+  `iban` varchar(100) DEFAULT NULL,
+  `country` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=19 ;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `transactions`
---
+-- Dumping data for table creditalliance.transactions: ~0 rows (approximately)
+/*!40000 ALTER TABLE `transactions` DISABLE KEYS */;
+/*!40000 ALTER TABLE `transactions` ENABLE KEYS */;
 
-INSERT INTO `transactions` (`id`, `transID`, `fromAcc`, `toAcc`, `amount`, `transCode`, `comment`, `status`, `date`) VALUES
-(1, '145154', '1537210310266', '1537210310266', '3000', '', 'Opening Balance', 0, '2018-09-17 02:51:54pm'),
-(2, '155521', '1537214085023', '1537214085023', '300', '', 'Opening Balance', 0, '2018-09-17 03:55:21pm'),
-(5, '161631', '1537210310266', 'Esinniobiwa Quareeb ( 1537214085023 )', '5000', '', 'Transfer', 1, '2018-09-17 04:16:31pm'),
-(6, '172446', '1537219568347', '1537219568347', '130000', '', 'Opening Balance', 0, '2018-09-17 05:24:46pm'),
-(8, '023245', '1537210310266', '1537214085023', '50', '35559', 'Transfer', 1, '2018-09-18 02:32:45am'),
-(9, '023347', '1537210310266', '1537214085023', '10', '35811', 'Transfer', 0, '2018-09-18 02:33:47am'),
-(10, '023605', '1537210310266', '1537214085023', '50', '', 'Transfer', 0, '2018-09-18 02:36:05am'),
-(11, '023809', '1537210310266', '1537214085023', '20', '35823', 'Transfer', 0, '2018-09-18 02:38:09am'),
-(12, '024724', '1537210310266', '', '100', '', 'Transfer', 0, '2018-09-18 02:47:24am'),
-(13, '024746', '1537210310266', '1537214085023', '100', '', 'Transfer', 0, '2018-09-18 02:47:46am'),
-(14, '024823', '1537210310266', '1537214085023', '200', '', 'Transfer', 0, '2018-09-18 02:48:23am'),
-(15, '025319', '1537210310266', '', '100', '', 'Transfer', 0, '2018-09-18 02:53:19am'),
-(16, '025341', '1537210310266', '', '10', '', 'Transfer', 0, '2018-09-18 02:53:41am'),
-(17, '025456', '1537210310266', '', '50', '', 'Transfer', 0, '2018-09-18 02:54:56am'),
-(18, '025551', '1537210310266', '1537214085023', '50', '', 'Transfer', 0, '2018-09-18 02:55:51am');
-
+/*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
+/*!40014 SET FOREIGN_KEY_CHECKS=IF(@OLD_FOREIGN_KEY_CHECKS IS NULL, 1, @OLD_FOREIGN_KEY_CHECKS) */;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
