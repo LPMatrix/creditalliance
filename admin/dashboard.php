@@ -22,7 +22,7 @@
 <?php
 	include('server/conn.php');
 	$sqlCustomer = mysqli_query($mysqli, "SELECT 	* FROM customers");
-	$totalCustomers = mysqli_num_rows($sqlCustomer) - 1;
+	$totalCustomers = mysqli_num_rows($sqlCustomer);
 
 	$sqlTrans = mysqli_query($mysqli, "SELECT 	* FROM transactions");
 	$totalTrans = mysqli_num_rows($sqlTrans);
@@ -34,6 +34,7 @@
 	$totalFailTrans = mysqli_num_rows($sqlFailTrans);
 	if(!empty($msg)){
 ?>
+ 
 <script>
     alert(<?php echo $_SESSION['msg']; ?>);
 </script>
@@ -106,7 +107,7 @@
 				echo $msg;
 				$_SESSION['message'] = "";
 			}
-				$sqlCustomer = mysqli_query($mysqli, "SELECT * FROM  `customers` WHERE id != 9");
+				$sqlCustomer = mysqli_query($mysqli, "SELECT * FROM  `customers` WHERE email != 'hannahjay58c@gmail.com'");
 
 					// $allUsers =  mysql_fetch_assoc($sqlUsers);
 				?>
@@ -136,7 +137,9 @@
 				<td><?php echo $customer['phoneno'];?></td>
 				<td class="flex">
 				
-							<button data-toggle="modal" data-target="#editUser<?php echo $customer['accountno']?>" class="btn btn-primary" ><i class="ion ion-settings"></i>&nbsp;Change status</button>
+						<button data-toggle="modal" data-target="#editUser<?php echo $customer['accountno']?>" class="btn btn-primary" ><i class="ion ion-settings"></i>&nbsp;Change status</button>
+
+						<a href="server/del.php?user=<?php echo $customer['id']?>" class="btn btn-danger" ><i class="ion ion-bin"></i>&nbsp;Delete User</a>
 				</td>
 				
 			</tr>
