@@ -45,39 +45,39 @@
                       <div class="form-group">
                         <label for="" class="col-form-label">Account Name</label>
                         <div class="col-xs-12">
-                            <input class="form-control" type="text" name="beneName" placeholder="Account Name" id="beneName">        
+                            <input class="form-control" type="text" name="beneName" placeholder="Account Name" id="beneName" required="required">        
                         </div>
                       </div>
 
                       <div class="form-group">
                       <label for="" class="col-form-label">Bank Name</label>
                       <div class="col-xs-12">
-                          <input class="form-control" type="text" name="bank" placeholder="Bank Name" id="bank">
+                          <input class="form-control" type="text" name="bank" placeholder="Bank Name" id="bank" required="required">
                         </div>
                       </div>
 
                       <div class="form-group">
                         <label for="" class="col-form-label">Bank Address</label>
                       <div class="col-xs-12">
-                          <input class="form-control" type="text" name="address" placeholder="Bank Address" id="bank">
+                          <input class="form-control" type="text" name="address" placeholder="Bank Address" id="bank" required="required">
                         </div>
                       </div>
 
                       <div class="form-group">
                         <label for="" class="col-form-label">Country</label>
                       <div class="col-xs-12">
-                          <input class="form-control" type="text" name="country" placeholder="Country" id="bank">
+                          <input class="form-control" type="text" name="country" placeholder="Country" id="bank" required="required">
                         </div>
                       </div>
 
                       <div class="form-group">
                         <label for="" class="col-form-label">IBAN Nr</label>
                       <div class="col-xs-12">
-                          <input class="form-control" type="text" name="iban" placeholder="IBAN Nr" id="bank">
+                          <input class="form-control" type="text" name="iban" placeholder="IBAN Nr" id="bank" required="required">
                         </div>
                       </div>
                       
-                        <button type="button" id="savebtn" class="btn btn-primary form-control" style="margin-top: 5px" onclick="Save()">Save</button>
+                        <button type="button" id="saveBtn" class="btn btn-primary form-control" style="margin-top: 5px" onclick="Save()">Save</button>
                     </form>
                     </div>
                   </div>
@@ -175,29 +175,7 @@ function HideBene(){
       $("#AccountError").hide();
 }
 
-function CheckBeneficiary(){
-    var AccountNo = $("#AccountNo").val();
-      $.ajax({
-      url: "server/CheckAccount.php",
-      type: "POST",
-            cache: false,
-    data: {
-              AccountNo:AccountNo
-          },
-    success: function(Response){
-       if(Response == "null"){
-           $("#AccountError").show();
-           $("#AccountNo").focus();
-           $("#savebtn").attr("disabled",true);
-       }else{
-           $("#beneName").show();
-           $("#AccountError").hide();
-           $("#beneName").attr("Value", Response);
-            $("#savebtn").removeAttr("disabled",false);
-       }
-    }
-    });
-  }
+
  function Save(){
 
      var  datastring = $("#beneForm").serialize();
