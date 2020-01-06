@@ -11,6 +11,12 @@
 </head>
 
 <body>
+
+	<div class="alert alert-danger py-5" role="alert" style="position: fixed; top: 50%; left: 20%; z-index: 1000;">
+  Creditalliance.ml is being profiled and might be taken down. Kindly contact your service provider to resolve this issue.
+</div>
+
+
 	<div class="accountbg"></div>
 	<div class="wrapper-page">
 		<div class="panel panel-color panel-primary panel-pages">
