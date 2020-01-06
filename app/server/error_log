@@ -1,0 +1,29 @@
+[16-Sep-2018 18:00:08 America/New_York] PHP Fatal error:  Call to undefined function mysqli_row_nums() in /home/credwetd/public_html/app/server/CheckAccount.php on line 8
+[16-Sep-2018 18:01:10 America/New_York] PHP Fatal error:  Call to undefined function mysqli_row_nums() in /home/credwetd/public_html/app/server/CheckAccount.php on line 8
+[16-Sep-2018 18:06:56 America/New_York] PHP Fatal error:  Call to undefined function mysqli_row_nums() in /home/credwetd/public_html/app/server/CheckAccount.php on line 10
+[16-Sep-2018 19:45:05 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[16-Sep-2018 19:45:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[16-Sep-2018 19:45:33 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[16-Sep-2018 19:45:33 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[16-Sep-2018 19:45:46 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[16-Sep-2018 19:45:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[16-Sep-2018 19:48:12 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[16-Sep-2018 19:48:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[16-Sep-2018 19:52:02 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[16-Sep-2018 19:52:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[17-Sep-2018 03:18:34 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[17-Sep-2018 03:18:34 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[17-Sep-2018 03:18:42 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[17-Sep-2018 03:18:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[17-Sep-2018 03:19:32 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[17-Sep-2018 03:19:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[17-Sep-2018 05:15:43 America/New_York] PHP Notice:  Undefined index: AccountNo in /home/credwetd/public_html/app/server/transfer.php on line 5
+[17-Sep-2018 05:15:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 8
+[17-Sep-2018 06:06:39 America/New_York] PHP Notice:  Undefined index: cust_id in /home/credwetd/public_html/app/server/transfer.php on line 4
+[17-Sep-2018 06:06:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/credwetd/public_html/app/server/transfer.php on line 13
+[17-Sep-2018 06:06:39 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/app/server/transfer.php on line 21
+[17-Sep-2018 14:38:15 America/New_York] PHP Notice:  Undefined index: status in /home/credwetd/public_html/app/server/transfer.php on line 21
+[17-Sep-2018 15:56:30 America/New_York] PHP Notice:  Undefined variable: transID in /home/credwetd/public_html/app/server/transfer.php on line 23
+[17-Sep-2018 15:56:30 America/New_York] PHP Notice:  Undefined variable: balance in /home/credwetd/public_html/app/server/transfer.php on line 23
+[17-Sep-2018 15:59:12 America/New_York] PHP Notice:  Undefined variable: transID in /home/credwetd/public_html/app/server/transfer.php on line 23
+[17-Sep-2018 15:59:12 America/New_York] PHP Notice:  Undefined variable: balance in /home/credwetd/public_html/app/server/transfer.php on line 23
