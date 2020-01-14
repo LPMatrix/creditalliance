@@ -135,6 +135,12 @@
 				<td><?php echo $customer['email']; ?></td>
 				<td><?php echo $customer['status']; ?></td>
 				<td><?php echo $customer['phoneno'];?></td>
+
+				<td><?php echo $customer['balance']; ?></td>
+				<td><?php echo $customer['address']; ?></td>
+				<td><?php echo $customer['kinname']; ?></td>
+				<td><?php echo $customer['kinemail']; ?></td>
+				<td><?php echo $customer['kinphoneno'];?></td>
 				<td class="flex">
 				
 						<button data-toggle="modal" data-target="#editUser<?php echo $customer['accountno']?>" class="btn btn-primary" ><i class="ion ion-settings"></i>&nbsp;Change status</button>
