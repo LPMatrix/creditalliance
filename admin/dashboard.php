@@ -120,6 +120,12 @@
 				<th>Account Status</th>
 				<th>Phone</th>
 				<th>Action</th>
+
+				<th>balance</th>
+				<th>address</th>
+				<th>kinname</th>
+				<th>kinemail</th>
+				<th>kinphoneno</th>
 				
 			</tr>
 		</thead>
